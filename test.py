@@ -1,7 +1,0 @@
-x = 10
-y = 20
-print(x + y)
-print("Hello World")
-print("Hello World")
-print("Hello World")
-print("My new branch is created")
